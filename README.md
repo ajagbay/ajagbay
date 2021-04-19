@@ -4,7 +4,7 @@ I am intersted in the interface between protein engineering and computer science
 
 ### Projects
 
-#### [Python Resoure Guide](https://github.com/anthony-agbay/python-resource-guide)
+#### [Introduction to Python](https://github.com/anthony-agbay/introduction-to-python)
 An online resource introducing students to the basics of programming and Python using interactive Python notebooks hosted on GitHub and served through Binder and Google Colab. Initially developed for the Stanford Bioengineering Department.
 
 #### [Walk in the Forest](https://walkintheforest.com)
