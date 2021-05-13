@@ -15,7 +15,7 @@ Command line tool to manage a local reading database based on CSV files from the
 
 ### Links
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fanthony_agbay)]
+![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fanthony_agbay)
 
 <!--
 **anthony-agbay/anthony-agbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
